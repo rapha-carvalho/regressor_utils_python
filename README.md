@@ -1,9 +1,5 @@
 # Regressor error metrics
-This is a class that stores functions to evaluate a machine learning regressor's performance, such as:
-- Random Forest;
-- Decision Tree;
-- RANSAC;
-- Etc.
+This is a class that stores functions to evaluate a Random Forest regressor.
 
 The errors calculated in this class are:
 - ISE: In-sample error
