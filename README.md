@@ -1,10 +1,10 @@
 # Handling regressor problems
 
-## Project Objective 
+## Project objective 
 
 The main goal of this project is to store useful functions or classes to handle regression problems in python.
 
-## Classes and Functions
+## Classes and functions
 
 Filename | Content
 ----------------|--------------------
